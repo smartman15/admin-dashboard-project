@@ -38,6 +38,11 @@
     background-color: blanchedalmond;
 }
 
+.main-right{
+    display: grid;
+    gap: 10px;
+}
+
 .announcement-container{
     display: grid;
 }
