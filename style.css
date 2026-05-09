@@ -35,3 +35,11 @@
 .card{
     background-color: blanchedalmond;
 }
+
+.announcement-container{
+    display: grid;
+}
+
+.trending-container{
+    display: grid;
+}
