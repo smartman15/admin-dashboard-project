@@ -19,6 +19,11 @@
     background-color:brown;
 }
 
+.header-container1{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
 .searchbar-container{
     display: flex;
     gap: 15px;
