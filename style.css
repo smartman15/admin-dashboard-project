@@ -20,14 +20,14 @@
 }
 
 .searchbar-container{
-    display: grid;
-    grid-template-columns: 1fr 4fr;
+    display: flex;
+    gap: 15px;
 }
 
 .searchbar{
-    width: 150px;
     height: 25px;
     background-color: grey;
+    flex-grow: 1;
 }
 
 .main-content{
