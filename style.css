@@ -19,6 +19,17 @@
     background-color:brown;
 }
 
+.searchbar-container{
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+}
+
+.searchbar{
+    width: 150px;
+    height: 25px;
+    background-color: grey;
+}
+
 .main-content{
     display: grid;
     grid-template-columns: 4fr 1fr;
