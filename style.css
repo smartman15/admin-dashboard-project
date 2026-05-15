@@ -40,6 +40,7 @@
     height: 25px;
     background-color: grey;
     flex-grow: 1;
+    border-radius: 15px;
 }
 
 .main-content{
