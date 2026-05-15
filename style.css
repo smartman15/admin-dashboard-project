@@ -27,13 +27,14 @@
 .profile-container{
     display: flex;
     align-items: center;
+    justify-content: center;
     gap: 5px;
 }
 
 .searchbar-container{
     display: flex;
     align-items: center;
-    margin-right: 150px;
+    padding-right: 150px;
     gap: 15px;
 }
 
