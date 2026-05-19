@@ -17,6 +17,7 @@
 .header{
     display: grid;
     background-color:brown;
+    gap: 15px;
 }
 
 .header-container1{
@@ -50,6 +51,7 @@
     display: grid;
     grid-template-columns: 3fr 1.2fr;
     align-items: center;
+    padding-bottom: 15px;
 }
 
 .user-container{
