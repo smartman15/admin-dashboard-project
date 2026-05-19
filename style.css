@@ -72,6 +72,11 @@
     grid-template-columns: repeat(3, 1fr);
 }
 
+.button{
+    text-align: center;
+    background-color: blue;
+}
+
 .main-content{
     display: grid;
     grid-template-columns: 4fr 1fr;
