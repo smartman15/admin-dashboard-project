@@ -53,6 +53,7 @@
 
 .user-container{
     display: flex;
+    align-items: center;
 }
 
 .user-greeting{
