@@ -46,6 +46,25 @@
     border-radius: 15px;
 }
 
+.header-container2{
+    display: grid;
+    grid-template-columns: 3fr 1.2fr;
+}
+
+.user-container{
+    display: flex;
+}
+
+.user-greeting{
+    display: flex;
+    flex-direction: column;
+}
+
+.action-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
 .main-content{
     display: grid;
     grid-template-columns: 4fr 1fr;
