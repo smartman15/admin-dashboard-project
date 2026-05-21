@@ -16,8 +16,17 @@
     justify-items: center;
 }
 
+.sidebar > .side-container,
+.sidebar > .dashboard-sign{
+    display: flex;
+}
+
 .dashboard-sign{
     font-size: 1.7rem;
+}
+
+.dashboard-sign > img{
+    fill: white;
 }
 
 .header{
