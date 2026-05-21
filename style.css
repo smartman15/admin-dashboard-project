@@ -21,6 +21,10 @@
     display: flex;
 }
 
+.side-container{
+    gap: 15px;
+}
+
 .side-container,
 .dashboard-sign{
     align-items: center;
