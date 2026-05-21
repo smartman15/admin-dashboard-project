@@ -21,6 +21,11 @@
     display: flex;
 }
 
+.side-container,
+.dashboard-sign{
+    align-items: center;
+}
+
 .dashboard-sign{
     font-size: 1.7rem;
 }
