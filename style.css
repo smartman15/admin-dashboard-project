@@ -26,6 +26,10 @@
     align-items: center;
 }
 
+.side-container > img{
+    width: 25px;
+}
+
 .dashboard-sign{
     font-size: 1.7rem;
 }
