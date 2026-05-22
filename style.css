@@ -25,6 +25,17 @@
     gap: 15px;
 }
 
+.section-one,
+.section-two{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.section-one > img,
+.section-two > img{
+    width: 25px;
+}
+
 .side-container,
 .dashboard-sign{
     align-items: center;
