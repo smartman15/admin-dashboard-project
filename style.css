@@ -26,15 +26,13 @@
     gap: 15px;
 }
 
-.section-one,
-.section-two{
+.section{
     display: grid;
     grid-template-columns: 1fr 2fr;
     width: 65%;
 }
 
-.section-one > img,
-.section-two > img{
+.section > img{
     width: 25px;
 }
 
