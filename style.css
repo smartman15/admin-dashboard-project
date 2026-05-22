@@ -29,6 +29,7 @@
 .section-two{
     display: grid;
     grid-template-columns: 1fr 2fr;
+    width: 65%;
 }
 
 .section-one > img,
