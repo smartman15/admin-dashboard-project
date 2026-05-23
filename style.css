@@ -128,8 +128,12 @@
 
 .main-content{
     display: grid;
-    grid-template-columns: 4fr 1fr;
     background-color: teal;
+}
+
+.main-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
 }
 
 .cards-container{
