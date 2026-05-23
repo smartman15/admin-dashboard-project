@@ -143,6 +143,18 @@
     gap: 15px;
 }
 
+.card{
+    display: grid;
+    align-content: space-between;
+}
+
+.logos-container{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 25px;
+    gap: 25px;
+}
+
 .card,
 .contents-container{
     background-color: blanchedalmond;
