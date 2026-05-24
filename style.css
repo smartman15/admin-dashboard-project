@@ -181,7 +181,7 @@ body,
 
 .main-right{
     display: grid;
-    gap: 10px;
+    gap: 25px;
 }
 
 .announcement-container{
@@ -190,4 +190,8 @@ body,
 
 .trending-container{
     display: grid;
+}
+
+.contents-container{
+    margin-top: 7px;
 }
