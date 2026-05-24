@@ -157,6 +157,9 @@ body,
 .card{
     display: grid;
     align-content: space-between;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-bottom: 15px;
 }
 
 .logos-container{
