@@ -144,7 +144,7 @@ body,
 
 .main-container{
     display: grid;
-    grid-template-columns: 4fr 1fr;
+    grid-template-columns: 2.5fr 1fr;
     gap: 20px;
 }
 
