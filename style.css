@@ -139,8 +139,7 @@ body,
 .main-content{
     display: grid;
     background-color: teal;
-    padding-left: 15px;
-    padding-bottom: 45px;
+    padding: 10px 25px 45px 15px;
 }
 
 .main-container{
