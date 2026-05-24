@@ -196,3 +196,8 @@ body,
     margin-top: 7px;
     padding: 20px;
 }
+
+.content{
+    display: grid;
+    gap: 2px;
+}
