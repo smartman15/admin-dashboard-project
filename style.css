@@ -212,6 +212,9 @@ body,
     display: grid;
     gap: 2px;
 }
+.trending-container > * > .content{
+    display: flex;
+}
 
 .trending-container > * > * > .container{
     display: flex; 
