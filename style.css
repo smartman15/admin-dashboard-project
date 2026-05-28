@@ -175,6 +175,12 @@ body,
     background-color: blanchedalmond;
 }
 
+.content:nth-child(1),
+.content:nth-child(2){
+    border-bottom: 1px solid grey;
+    padding-bottom: 15px;
+}
+
 .title{
     font-weight: bold;
 }
