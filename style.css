@@ -175,8 +175,8 @@ body,
     background-color: blanchedalmond;
 }
 
-.content:nth-child(1),
-.content:nth-child(2){
+.announcement-container .content:nth-child(1),
+.announcement-container .content:nth-child(2){
     border-bottom: 1px solid grey;
     padding-bottom: 15px;
     margin-bottom: 15px;
@@ -211,4 +211,9 @@ body,
 .content{
     display: grid;
     gap: 2px;
+}
+
+.trending-container > * > * > .container{
+    display: flex; 
+    flex-direction: column;
 }
