@@ -175,6 +175,10 @@ body,
     background-color: blanchedalmond;
 }
 
+.title{
+    font-weight: bold;
+}
+
 .logos-container > img{
     width: 25px;
 }
