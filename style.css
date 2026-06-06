@@ -142,7 +142,10 @@ body,
     padding: 10px 25px 45px 15px;
 }
 
-.main-container{
+
+
+.main-container,
+.main-content > .titles{
     display: grid;
     grid-template-columns: 2.5fr 1fr;
     gap: 20px;
