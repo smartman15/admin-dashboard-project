@@ -151,6 +151,10 @@ body,
     gap: 20px;
 }
 
+.main-container{
+    margin-top: 10px;
+}
+
 .cards-container{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
