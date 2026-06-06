@@ -209,7 +209,6 @@ body,
 .contents-container{
     display: grid;
     gap: 15px;
-    margin-top: 7px;
     padding: 20px;
 }
 
