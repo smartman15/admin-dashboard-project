@@ -229,7 +229,7 @@ body,
 
 .content{
     display: grid;
-    gap: 2px;
+    gap: 15px;
 }
 .trending-container > * > .content{
     display: flex;
