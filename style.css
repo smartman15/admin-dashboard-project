@@ -50,6 +50,7 @@ body,
 .section > div{
     display: flex;
     align-items: center;
+    gap: 25px;
 }
 
 .side-container,
