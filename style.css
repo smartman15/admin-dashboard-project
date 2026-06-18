@@ -219,6 +219,7 @@ body,
 
 .trending-container{
     display: grid;
+    gap: 10px;
 }
 
 .contents-container{
