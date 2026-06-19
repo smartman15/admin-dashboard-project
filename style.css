@@ -54,6 +54,7 @@ body,
 }
 
 .section{
+    font-size: 1.3rem;
     display: grid;
     grid-template-columns: 1fr;
     width: 65%;
