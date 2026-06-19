@@ -223,6 +223,13 @@ body,
     box-shadow: rgb(114, 113, 113) 2px 5px 5px;
 }
 
+.text-container > p,
+.content > p,
+.user-description{
+    color: grey;
+    font-weight: 500;
+}
+
 .announcement-container .content:nth-child(1),
 .announcement-container .content:nth-child(2){
     border-bottom: 1px solid grey;
