@@ -237,8 +237,15 @@ body,
     margin-bottom: 15px;
 }
 
-.title{
+.title,
+.titles,
+.trending-container > p{
     font-weight: bold;
+}
+
+.titles,
+.trending-container > p{
+    font-size: 1.3rem;
 }
 
 .logos-container > img{
