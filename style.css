@@ -93,6 +93,7 @@ body,
 }
 
 .header{
+    font-weight: bold;
     display: grid;
     background-color:brown;
     padding-top: 15px;
