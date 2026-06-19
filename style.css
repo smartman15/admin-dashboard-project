@@ -82,6 +82,8 @@ body,
 
 .dashboard-sign{
     font-size: 1.7rem;
+    gap: 10px;
+    padding-right: 50px;
 }
 
 .dashboard-sign > img{
