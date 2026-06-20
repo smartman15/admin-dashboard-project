@@ -126,7 +126,7 @@ body,
 
 .searchbar{
     height: 25px;
-    background-color: grey;
+    background-color: #e2e8f0;
     flex-grow: 1;
     border-radius: 15px;
 }
